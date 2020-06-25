@@ -1,1 +1,30 @@
-/* Follow today's video and write styles here */
+h1{
+    color: darkred;
+    font-size: 20px;
+    background-color: greenyellow;
+}
+h3{
+    color: greenyellow;
+}
+th{ /* acadamics table head */
+    border: 1px solid black;
+    font-size: 25;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 8px;
+    background-color: greenyellow;
+    width:60% ;
+}
+td{ /*acadamics table body */
+    border: 1px solid black;
+    padding: 8px;
+    width: 80;
+    font-family: sans-serif;
+    font-size: 10;
+    text-align: center;
+}
+.four{ /*personal info table b */
+border-color: chocolate;
+}
+.main {
+    background-color: rgb(243, 243, 156) ;
+}
